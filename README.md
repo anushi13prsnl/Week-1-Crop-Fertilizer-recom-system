@@ -10,8 +10,9 @@ This repo includes the **very first steps** of our Machine Learning journey 🚀
 
 | File | Description |
 |------|-------------|
-| 📄 `Session_I_Mentoring_Session.docx` | Definitions of ML, Supervised Learning, Labelled Data, Classification & Regression |
-| 🧪 `crop_recom_algorithm.ipynb` | Google Colab notebook to upload and load data using pandas |
+| `Session_I_Mentoring_Session.docx` | Definitions of ML, Supervised Learning, Labelled Data, Classification & Regression |
+| `crop_recom_algorithm.ipynb` | Google Colab notebook to upload and load data using pandas |
+| `rop_recommendation (l).csv` | Crop recom dataset from Kaggle |
 
 ---
 
