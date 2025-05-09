@@ -1,4 +1,4 @@
-# 🌾 Crop Management System
+# 🌾 Crop & Fertilizer Recommendation System 
 
 Welcome! 👋  
 This repository documents our **machine learning journey** in building a Crop Management System. It now includes progress from both **Week 1** and **Week 2** 🚀
