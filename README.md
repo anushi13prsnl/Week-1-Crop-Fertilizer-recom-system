@@ -8,11 +8,12 @@ This repository documents our **machine learning journey** in building a Crop Ma
 ## 🗂️ Folder Structure
 
 ```
-.
+├── Dataset
+│   ├── Crop_Recommendation.csv
+│   └── Fertilizer Prediction.csv
 ├── Week-1
 │   ├── Session_I_Mentoring_Session.docx
 │   ├── crop_recom_algorithm.ipynb
-│   └── Crop_recommendation (l).csv
 ├── Week-2
 │   └── Crop_Prediction.ipynb
 └── README.md
