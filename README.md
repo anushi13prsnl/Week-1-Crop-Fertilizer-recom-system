@@ -1,53 +1,62 @@
-# 📚 Week 1 
-Mentoring Session 1: ML Basics & Data Loading 
+# 🌾 Crop Management System
 
-Hi there! 👋  
-This repo includes the **very first steps** of our Machine Learning journey 🚀
-
----
-
-## 🗂️ What's Inside?
-
-| File | Description |
-|------|-------------|
-| `Session_I_Mentoring_Session.docx` | Definitions of ML, Supervised Learning, Labelled Data, Classification & Regression |
-| `crop_recom_algorithm.ipynb` | Google Colab notebook to upload and load data using pandas |
-| `Crop_recommendation (l).csv` | Crop recom dataset from Kaggle |
+Welcome! 👋  
+This repository documents our **machine learning journey** in building a Crop Management System. It now includes progress from both **Week 1** and **Week 2** 🚀
 
 ---
 
-## 🧠 Quick Summary: what we did
+## 🗂️ Folder Structure
 
-### ✅ Baisc Theory:
-
-- Understood **what ML is**, with simple real-life examples
-- Discussed **supervised learning** using labelled data
-- Learnt the difference between:
-  - **Classification** → 📦 Predict categories 
-  - **Regression** → 🔢 Predict numbers 
-
----
-
-### ✅ Practical on google colab:
-
-- 🔼 Uploaded dataset
-- 📚 Imported necessary libraries (for data loading n processing and data visualization)
-```python
-import numpy as np  
-import pandas as pd  
-import matplotlib.pyplot as plt  
-import seaborn as sns
 ```
-- 📥 Loaded CSV using `df = pd.read_csv()`
-- 👀 Displayed first 5 records with `df.head()`
-- ℹ️ Checked dataset info with `df.info()`
+.
+├── Week-1
+│   ├── Session_I_Mentoring_Session.docx
+│   ├── crop_recom_algorithm.ipynb
+│   └── Crop_recommendation (l).csv
+├── Week-2
+│   └── Crop_Prediction.ipynb
+└── README.md
+```
 
 ---
 
-⚙️ _Next session: Data Processing..._ 🔄
+## 📚 Week 1  
+**Mentoring Session 1: ML Basics & Data Loading**
+
+### ✅ Quick Summary:
+
+#### 🧠 Basic Theory:
+- Introduced **Machine Learning** with real-world examples.
+- Explained **Supervised Learning**, **Labelled Data**, and the difference between:
+  - **Classification** → Predicting categories
+  - **Regression** → Predicting numeric values
+
+#### 💻 Practical:
+- Used **Google Colab** to upload and load data.
+- Imported libraries like:
+  ```python
+  import numpy as np  
+  import pandas as pd  
+  import matplotlib.pyplot as plt  
+  import seaborn as sns
+  ```
+- Loaded dataset using `pd.read_csv()`
+- Explored data using `df.head()` and `df.info()`
+
+⚙️ _Next: Data Processing..._ 🔄
 
 ---
 
+## 📚 Week 2  
+**Crop Prediction – Initial Code Drafting**
 
+### ✅ Quick Summary:
 
-🌟 Happy Learning!
+- Created `Crop_Prediction.ipynb` notebook
+- Added initial code snippets relevant to crop prediction logic.
+- Served as a **Week 2 submission placeholder**.
+- Work-in-progress; further model building and evaluation to follow in upcoming weeks.
+
+---
+
+🌟 Happy Learning & Coding! 🌱
