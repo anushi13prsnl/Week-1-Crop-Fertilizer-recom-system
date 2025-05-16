@@ -50,7 +50,7 @@ This project leverages machine learning to help farmers make data-driven decisio
 │ ├── Crop_Prediction.ipynb            
 │ └── Fertilizer_Recommendation.ipynb  
 │
-└── README.md # Project documentation
+└── README.md                           # Project documentation
 ```
 
 ## 📋 Recommended Repository Structure
