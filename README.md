@@ -1,4 +1,4 @@
-# 🌱 Smart Agriculture: Crop & Fertilizer Recommendation System
+# <p align="center"> 🌱 Crop & Fertilizer Recommendation System using ML </p>
 
 <p align="center"> <img src="extras/readme.gif" alt="Smart Agriculture GIF"> </p> <p align="center"> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-v3.7+-blue.svg" alt="Python"></a> <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-1.3.0-orange" alt="Scikit-learn"></a> <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-2.0.3-brightgreen" alt="Pandas"></a> <a href="https://github.com/anushi13prsnl/Week-1-Crop-Fertilizer-recom-system"><img src="https://img.shields.io/badge/status-active-success.svg" alt="Status"></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a> </p>
 
@@ -34,21 +34,23 @@ This project leverages machine learning to help farmers make data-driven decisio
 ```
 .
 ├── 📂 Dataset
-│   ├── Crop_Recommendation.csv      # Dataset for crop prediction
-│   └── Fertilizer_Prediction.csv    # Dataset for fertilizer recommendation
+│ ├── Crop_Recommendation.csv             # Dataset for crop prediction
+│ └── Fertilizer_Prediction.csv           # Dataset for fertilizer recommendation
 │
-├── 📂 Week-1                        # Foundation & data exploration
-│   ├── Session_I_Mentoring_Session.docx
-│   └── crop_recom_algorithm.ipynb
+├── 📂 extras                            # Additional resources and utilities
 │
-├── 📂 Week-2                        # Initial model development
-│   └── Crop_Prediction.ipynb
+├── 📂 Week-1                            # Foundation & data exploration
+│ ├── Session_I_Mentoring_Session.docx
+│ └── crop_recom_algorithm.ipynb
 │
-├── 📂 Week-3                        # Final system implementation
-│   ├── Crop_Prediction.ipynb        # Complete crop recommendation system
-│   └── Fertilizer_Recommendation.ipynb  # Complete fertilizer recommendation system
+├── 📂 Week-2                           # Initial model development
+│ └── Crop_Prediction.ipynb
 │
-└── README.md                        # Project documentation
+├── 📂 Week-3                           # Final system implementation
+│ ├── Crop_Prediction.ipynb            
+│ └── Fertilizer_Recommendation.ipynb  
+│
+└── README.md # Project documentation
 ```
 
 ## 📋 Recommended Repository Structure
@@ -129,8 +131,8 @@ This project leverages machine learning to help farmers make data-driven decisio
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/crop-fertilizer-recommendation.git
-   cd crop-fertilizer-recommendation
+   git clone https://github.com/anushi13prsnl/Week-1-Crop-Fertilizer-recom-system.git
+   cd Week-1-Crop-Fertilizer-recom-system
    ```
 
 2. **Install required dependencies**
@@ -237,7 +239,6 @@ Before implementing this system, please ensure you:
 - [ ] Deploy as a web application with interactive UI (Flask/Streamlit)
 - [ ] Integrate local weather API for real-time data
 - [ ] Add soil image analysis capabilities with computer vision
-- [ ] Implement additional ML algorithms (Random Forest, XGBoost)
 - [ ] Create mobile application for field use
 - [ ] Build time-series forecasting for seasonal recommendations
 - [ ] Add multilingual support for global accessibility
